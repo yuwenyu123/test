@@ -1,6 +1,7 @@
 <template>
   <div class="app-mine">
     <div class="show">{{msg}}</div>
+    <div class="contect">你好！！！</div>
   </div>
 </template>
 
