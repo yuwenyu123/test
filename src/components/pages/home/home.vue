@@ -1,6 +1,9 @@
 <template>
   <div class="app-home">
     <div class="show">{{msg}}</div>
+    <div class="content">
+      123abc
+    </div>
   </div>
 </template>
 
