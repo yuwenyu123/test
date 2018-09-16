@@ -1,6 +1,9 @@
 <template>
   <div class="app-classify">
     <div class="show">{{msg}}</div>
+    <div class="content">
+      你好！！！classify
+    </div>
   </div>
 </template>
 
